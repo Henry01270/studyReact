@@ -4,9 +4,12 @@
 시청시간
 25_0217: 0:02:26
 25_0218: 0:44:19
+25_0219_1: 0:52:51
 
 node -v
 npm -v
 npx create-react-app (이름)
 cd (이름)
 npm start
+
+npm install
